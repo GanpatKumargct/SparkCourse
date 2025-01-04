@@ -1,0 +1,52 @@
+*{
+    margin : 0.5px;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+html, body{
+    height: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+button:hover{
+    background: palevioletred;
+}
+
+input:focus{
+    background-color: blue;
+}
+
+#first::first-letter{
+    text-decoration:solid;
+    color: chartreuse;
+}
+
+
+p:first-child{
+    text-decoration:  solid blueviolet;
+    text-transform: uppercase;
+}
+
+
+a:active{
+    color: red;
+}
+
+h1::before{
+    content: "!! ";
+    color: rgb(16, 252, 8);
+}
+
+h1::after{
+    content: " !!";
+    color: blueviolet;
+}
+
+
+p::selection{
+    background-color: rgb(240, 224, 8);
+    color: cadetblue;
+}

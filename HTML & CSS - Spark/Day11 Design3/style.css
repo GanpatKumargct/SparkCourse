@@ -1,0 +1,37 @@
+*{
+    margin: 5px;
+    padding: 1px;
+}
+
+#parent{
+    
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+    grid-template-rows:100px 100px 100px;
+}
+
+#child1{
+    background-color: yellow;
+    grid-column-start:1 ;
+    grid-column-end: 4;
+}
+
+#child2{
+    background-color: aqua;
+}
+
+#child3{
+    background-color: blueviolet;
+}
+
+#child4{
+    background-color: brown;
+}
+
+#child5{
+    background-color: chartreuse;
+}
+
+#child6{
+    background-color: violet;
+}

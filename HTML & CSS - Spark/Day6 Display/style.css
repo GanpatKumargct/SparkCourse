@@ -1,0 +1,24 @@
+*{
+    margin : 0.5px;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+html, body{
+    height: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+/* do h1 do line me aata hai 
+but inline flex lagane ke baad yeah ek line me aa jata hai */
+h1{
+    display: inline-flex;
+}
+
+a{
+    
+    display: block;
+}

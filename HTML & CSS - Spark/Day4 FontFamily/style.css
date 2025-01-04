@@ -1,0 +1,22 @@
+*{
+    margin : 0.5px;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+html, body{
+    height: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    margin-top: 10px;
+    font-family: serif;
+    font-weight: 1;
+    text-transform: lowercase;
+    text-decoration:overline;
+    font-size: 2vw;
+    line-height: 1.5;
+    text-align: left;
+}

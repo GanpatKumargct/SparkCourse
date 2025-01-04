@@ -1,0 +1,49 @@
+*{
+    margin : 0.5px;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+html, body{
+    height: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#yellow{
+    width: 80px;
+    height: 90px;
+    background-color: rgb(233, 229, 9);
+}
+
+
+#red{
+    position: absolute;
+    width: 30px;
+    height: 20px;
+    background-color: rgb(248, 60, 12);
+}
+
+#blue{
+    width: 80px;
+    height: 40px;
+    background-color: rgb(81, 14, 238);
+}
+
+
+.parent{
+    /* agar yeah nahi dalenge to child class ka box bahar bhi jaa sakta hay */
+    position: relative;     
+    width: 100px;
+    height: 100px;
+    background-color: chartreuse;
+}
+
+.child{
+    position: absolute;
+    left: 30%;
+    width: 40px;
+    height: 40px;
+    background-color: rgb(71, 31, 247);
+}

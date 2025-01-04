@@ -1,0 +1,40 @@
+*{
+    margin: 0.5px;
+    padding: 0.5px;
+
+}
+
+html, body{
+    height: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#parent{
+    display: grid;
+    grid-template-columns: 150px 50px 100px;
+    grid-template-rows: 80px 50px ;
+}
+
+#child1{
+    background-color: blueviolet;
+}
+
+#child2{
+    background-color: palegreen;
+}
+
+#child3{
+    background-color: rgb(243, 247, 24);
+}
+
+#child4{
+    background-color: rgb(226, 43, 43);
+}
+
+#child5{
+    background-color: rgb(20, 241, 230);
+}
+
+#child6{
+    background-color: rgb(231, 101, 14);
+}
