@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4ca6279e-93d0-4e3c-aec1-0f38d9c4a01e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSRollBackSecurityJWT/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSRollBackSecurityJWT/src/main/java/com/Ganpat/SSRollBackSecurity/Config/SecurityConFig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSRollBackSecurityJWT/src/main/java/com/Ganpat/SSRollBackSecurity/Controller/authController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSRollBackSecurityJWT/src/main/java/com/Ganpat/SSRollBackSecurity/Model/JwtRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSRollBackSecurityJWT/src/main/java/com/Ganpat/SSRollBackSecurity/Model/JwtResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSRollBackSecurityJWT/src/main/java/com/Ganpat/SSRollBackSecurity/Model/user.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSRollBackSecurityJWT/src/main/java/com/Ganpat/SSRollBackSecurity/Security/JwtAuthenticationEntryPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSRollBackSecurityJWT/src/main/java/com/Ganpat/SSRollBackSecurity/Security/JwtAuthenticationFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSRollBackSecurityJWT/src/main/java/com/Ganpat/SSRollBackSecurity/Security/JwtHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSRollBackSecurityJWT/src/main/java/com/Ganpat/SSRollBackSecurity/Service/UserSerivce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringSecurity/rollBasedAuth/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringSecurity/rollBasedAuth/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringSecurity/rollBasedAuth/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringSecurity/rollBasedAuth/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringSecurity/rollBasedAuth/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringSecurity/rollBasedAuth/src/main/java/com/ganpat/rollBasedAuth/Config/webConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringSecurity/rollBasedAuth/src/main/java/com/ganpat/rollBasedAuth/Controller/rolecontroller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringSecurity/rollBasedAuth/src/main/java/com/ganpat/rollBasedAuth/RollBasedAuthApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringSecurity/rollBasedAuth/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringSecurity/rollBasedAuth/src/test/java/com/ganpat/rollBasedAuth/RollBasedAuthApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rollBackAuthentication/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rollBackAuthentication/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rollBackAuthentication/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rollBackAuthentication/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rollBackAuthentication/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rollBackAuthentication/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rollBackAuthentication/src/main/java/com/ganpat/rollBackAuthentication/RollBackAuthenticationApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rollBackAuthentication/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rollBackAuthentication/src/test/java/com/ganpat/rollBackAuthentication/RollBackAuthenticationApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/../SSRollBackSecurityJWT/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../SSRollBackSecurityJWT/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../SSRollBackSecurityJWT/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../SSRollBackSecurityJWT/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../SSRollBackSecurityJWT/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringSecurity/rollBasedAuth/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Ganpat/SSRollBackSecurity/Config/WebConFig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SSRollBackSecurityJWT/src/main/java/com/Ganpat/SSRollBackSecurity/Config/WebConFig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Ganpat/SSRollBackSecurity/Controller/RoleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SSRollBackSecurityJWT/src/main/java/com/Ganpat/SSRollBackSecurity/Controller/RoleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Ganpat/SSRollBackSecurity/SsRollBackSecurityApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SSRollBackSecurityJWT/src/main/java/com/Ganpat/SSRollBackSecurity/SsRollBackSecurityApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../SSRollBackSecurityJWT/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/Ganpat/SSRollBackSecurity/SsRollBackSecurityApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SSRollBackSecurityJWT/src/test/java/com/Ganpat/SSRollBackSecurity/SsRollBackSecurityApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2qteMVREiuHFwR3qCW6yySHeutI" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/Spark/SpringSecurity/rollBasedAuth",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ca6279e-93d0-4e3c-aec1-0f38d9c4a01e" name="Changes" comment="" />
+      <created>1735486254334</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735486254334</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

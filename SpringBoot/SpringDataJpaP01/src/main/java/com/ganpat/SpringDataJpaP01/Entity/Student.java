@@ -14,6 +14,7 @@ public class Student {
     private String Email;
     private int Age;
 
+
     public Student( String name, String email, int age) {
         Name = name;
         Email = email;
@@ -57,4 +58,14 @@ public class Student {
     }
 
 
+    @Override
+    public String toString() {
+        final StringBuilder sb = new StringBuilder("Student{");
+        sb.append("Id=").append(Id);
+        sb.append(", Name='").append(Name).append('\'');
+        sb.append(", Email='").append(Email).append('\'');
+        sb.append(", Age=").append(Age);
+        sb.append('}');
+        return sb.toString();
+    }
 }

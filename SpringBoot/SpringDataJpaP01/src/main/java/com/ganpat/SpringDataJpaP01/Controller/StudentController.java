@@ -6,10 +6,12 @@ import jakarta.websocket.server.PathParam;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
+import javax.lang.model.util.Elements;
 import java.util.List;
 
 
 @RestController
+@CrossOrigin(origins = "http://127.0.0.1:8080")
 @RequestMapping("api/std")
 public class StudentController {
  @Autowired
