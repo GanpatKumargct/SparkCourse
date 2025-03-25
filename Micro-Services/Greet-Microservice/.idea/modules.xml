@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Service-Register.iml" filepath="$PROJECT_DIR$/.idea/Service-Register.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Greet-Microservice.iml" filepath="$PROJECT_DIR$/.idea/Greet-Microservice.iml" />
     </modules>
   </component>
 </project>

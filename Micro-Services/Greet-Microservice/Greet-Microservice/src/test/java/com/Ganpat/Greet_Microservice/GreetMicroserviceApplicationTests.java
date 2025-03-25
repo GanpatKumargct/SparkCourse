@@ -1,10 +1,10 @@
-package com.ServiceRegistery.Service_Register;
+package com.Ganpat.Greet_Microservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ServiceRegisterApplicationTests {
+class GreetMicroserviceApplicationTests {
 
 	@Test
 	void contextLoads() {
