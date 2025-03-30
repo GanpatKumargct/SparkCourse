@@ -8,6 +8,6 @@ public class Greet {
 
     @GetMapping("/greet")
     public String greet(){
-        return "Hey Welcome to microservices";
+        return "Good Morning buddy ";
     }
 }
