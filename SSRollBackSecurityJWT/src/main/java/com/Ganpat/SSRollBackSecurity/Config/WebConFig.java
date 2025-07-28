@@ -51,7 +51,7 @@ public class WebConFig {
 
 
     //Kaun Api kis se acces ho sakta hai
-  /*  @Bean
+  @Bean
     public SecurityFilterChain securityFilterChain(HttpSecurity http) throws Exception {
         http.csrf(e->e.disable())
                 .authorizeHttpRequests(auth -> auth
@@ -67,7 +67,7 @@ public class WebConFig {
                 .formLogin(Customizer.withDefaults())
                 .httpBasic(Customizer.withDefaults());
         return http.build();
-    }*/
+    }
 /*
     @Bean
     public AuthenticationManager authenticationManager(AuthenticationConfiguration builder) throws Exception {
