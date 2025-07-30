@@ -9,7 +9,7 @@ import java.util.List;
 
 @Repository
 public interface TaskRepo extends MongoRepository<Task, String> {
-    List<Task> findBySeverity(int severity);
+    List<Task> findBySeverity(String severity);
 
     @Query("{ assignee:?0 }")
     List<Task> findByAssignee(String assignee);

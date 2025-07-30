@@ -33,7 +33,7 @@ public class TaskService {
         return taskRepository.findById(taskId).get();
     }
 
-    public List<Task> getTaskBySeverity(int severity){
+    public List<Task> getTaskBySeverity(String severity){
         return taskRepository.findBySeverity(severity);
     }
 

@@ -37,7 +37,7 @@ public class TaskController {
     }
 
     @GetMapping("/getBySeverity")
-    public List<Task> getTaskBySeverity(@RequestParam int severity){
+    public List<Task> getTaskBySeverity(@RequestParam String severity){
         return taskService.getTaskBySeverity(severity);
     }
 

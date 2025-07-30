@@ -1,0 +1,6 @@
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://admin:admin@ganpat.4ypz6z4.mongodb.net/?retryWrites=true&w=majority&appName=Ganpat
+      database: task
